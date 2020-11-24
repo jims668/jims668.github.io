@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <id>http://jims668.github.io</id>
+    <id>https://jims668.github.io</id>
     <title>Gridea</title>
-    <updated>2020-11-24T02:52:55.332Z</updated>
+    <updated>2020-11-24T03:08:37.639Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
-    <link rel="alternate" href="http://jims668.github.io"/>
-    <link rel="self" href="http://jims668.github.io/atom.xml"/>
+    <link rel="alternate" href="https://jims668.github.io"/>
+    <link rel="self" href="https://jims668.github.io/atom.xml"/>
     <subtitle>温故而知新</subtitle>
-    <logo>http://jims668.github.io/images/avatar.png</logo>
-    <icon>http://jims668.github.io/favicon.ico</icon>
+    <logo>https://jims668.github.io/images/avatar.png</logo>
+    <icon>https://jims668.github.io/favicon.ico</icon>
     <rights>All rights reserved 2020, Gridea</rights>
     <entry>
         <title type="html"><![CDATA[中标一装配式建筑项目]]></title>
-        <id>http://jims668.github.io/post/zhong-biao-yi-zhuang-pei-shi-jian-zhu-xiang-mu/</id>
-        <link href="http://jims668.github.io/post/zhong-biao-yi-zhuang-pei-shi-jian-zhu-xiang-mu/">
+        <id>https://jims668.github.io/post/zhong-biao-yi-zhuang-pei-shi-jian-zhu-xiang-mu/</id>
+        <link href="https://jims668.github.io/post/zhong-biao-yi-zhuang-pei-shi-jian-zhu-xiang-mu/">
         </link>
         <updated>2020-11-24T02:36:25.000Z</updated>
         <content type="html"><![CDATA[<!-- more -->
 <p>🤑<br>
 近日，河北建设集团股份有限公司（简称“河北建设集团”）官网发文称，公司于11月18日中标了河北省保定市安悦佳苑小区保障性住房（二期）项目，中标额为2.93亿元，为公司中标的又一装配式项目。据悉，该项目由五栋住宅及三栋配建组成，总建筑面积为64974.69平方米；项目地下为钢筋混凝土结构，地上为装配式钢结构，最大建筑高度为99米；项目设计装配率为66%，装配式建筑评价标准为A级。<br>
 ｜点评｜近年来，河北建设集团在装配式建筑施工领域不断探索，此次中标项目如能成功落地，利于在该领域进一步积累经验。<br>
-<img src="http://jims668.github.io/post-images/1606185619617.png" alt="" loading="lazy"></p>
+<img src="https://jims668.github.io/post-images/1606185619617.png" alt="" loading="lazy"></p>
 ]]></content>
     </entry>
     <entry>
         <title type="html"><![CDATA[测试github上的markdown信息]]></title>
-        <id>http://jims668.github.io/post/ce-shi-github-shang-de-markdown-xin-xi/</id>
-        <link href="http://jims668.github.io/post/ce-shi-github-shang-de-markdown-xin-xi/">
+        <id>https://jims668.github.io/post/ce-shi-github-shang-de-markdown-xin-xi/</id>
+        <link href="https://jims668.github.io/post/ce-shi-github-shang-de-markdown-xin-xi/">
         </link>
         <updated>2020-11-24T02:34:40.000Z</updated>
         <content type="html"><![CDATA[<h1 id="测试markdown信息">测试markdown信息</h1>
@@ -35,8 +35,8 @@
     </entry>
     <entry>
         <title type="html"><![CDATA[Hello Gridea]]></title>
-        <id>http://jims668.github.io/post/hello-gridea/</id>
-        <link href="http://jims668.github.io/post/hello-gridea/">
+        <id>https://jims668.github.io/post/hello-gridea/</id>
+        <link href="https://jims668.github.io/post/hello-gridea/">
         </link>
         <updated>2018-12-11T16:00:00.000Z</updated>
         <summary type="html"><![CDATA[<p>👏  欢迎使用 <strong>Gridea</strong> ！<br>
